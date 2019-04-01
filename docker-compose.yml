@@ -1,4 +1,4 @@
 version: '3'
-	services:
-	   web:
-	     image: dimage1
+services:
+  web:
+     image: dimage1
