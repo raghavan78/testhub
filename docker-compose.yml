@@ -1,6 +1,6 @@
 version: '3'
 services:
   hello:
-    image: happ/dimage1
+    image: dimage1
   bye:
-    image: bapp/dimage2
+    image: dimage2
