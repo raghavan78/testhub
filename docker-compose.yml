@@ -1,8 +1,6 @@
 version: '3'
 services:
-  web:
-<<<<<<< HEAD
+  hello:
     image: dimage1
-=======
-     image: dimage1
->>>>>>> d9dc5961617db09c8d0dec9f2aff8fcae368df31
+  bye:
+    image: dimage2
