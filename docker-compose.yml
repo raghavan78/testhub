@@ -1,6 +1,6 @@
 version: '3'
 services:
   hello:
-    image: dimage1
+    image: ec2-54-183-150-134.us-west-1.compute.amazonaws.com:5000/dimage1
   bye:
-    image: dimage2
+    image: ec2-54-183-150-134.us-west-1.compute.amazonaws.com:5000/dimage2
